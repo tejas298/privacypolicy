@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**EXPENSE CALCULATOR** ("we", "our", or "us") operates the EXPENSE Calculator mobile application (the "App").
+**EXPENSE CALCULATOR** ("we", "our", or "us") operates the Future Net Worth mobile application (the "App").
 
 We respect your privacy and are committed to protecting any information you may provide while using our App.
 
